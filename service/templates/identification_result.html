@@ -7,11 +7,12 @@
     <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 </head>
 <body>	
-		
+		<p> {{ face_verified }}</p>
 	    <img src="{{ customer.id_card_img.url }}" style="width: 200px; height: 200px;">
 	    <br>
 	    <img src="{{ customer.selfie_img.url }}" style="width: 200px; height: 200px;">
 	    <br><br>
+
 	    <a class="btn btn-default" href="{% url 'delete' pk=customer.pk %}"><span class="glyphicon glyphicon-remove"></span></a>
 </body>
 </html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/service" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/zz_project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/images" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myvenv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/image" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/images/img_card" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/images/img_selfie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/images" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/src/images" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/src/images/img_card" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/src/images/img_selfie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/images/img_card" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/images/img_selfie" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (hakaton-tele2-altel)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>

@@ -1,9 +1,21 @@
+{% load static %}
+
+
 <html>
     <head>
         <title>zz project</title>
+        <link rel="stylesheet" href="{% static 'main.css' %}">
     </head>
     <body>
         <p>Hi there!</p>
-        <p>It works!</p>
+        <div>
+        	<form method="POST" class='post-form container' enctype="multipart/form-data">
+				{% csrf_token %}
+				{{ form.as_p }}
+				{{ form.media }}
+				<button type='submit' class='save btn btn-default'>Save</button>
+			</form>
+        </div>
+
     </body>
 </html>

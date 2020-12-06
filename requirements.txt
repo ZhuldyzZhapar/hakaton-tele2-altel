@@ -2,3 +2,4 @@ Django~=2.2.4
 openCV-Python
 numpy==1.19.3
 scikit-image
+dlib

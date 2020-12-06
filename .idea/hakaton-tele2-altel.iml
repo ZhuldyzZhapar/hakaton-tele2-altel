@@ -19,6 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/service/templates" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/images/img_card" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/images/img_selfie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service/src/models" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (hakaton-tele2-altel)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
